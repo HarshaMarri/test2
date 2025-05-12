@@ -4,11 +4,6 @@ description !!
 
 # sub-header
  
- My name is Pokemon
-
-
- HARSHA trying git 
-
- for the secong time!!
+second time
 
 Now third time
